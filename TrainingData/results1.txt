@@ -1,0 +1,42 @@
+0 , 1 , 1
+Over Steer
+1 , 0 , 1
+Under Steer
+0 , 1 , 1
+Over Steer
+0 , 1 , 1
+Over Steer
+1 , 0 , 1
+Under Steer
+0 , 1 , 1
+Over Steer
+0 , 1 , 1
+Over Steer
+1 , 0 , 2
+Over Steer
+0 , 1 , 1
+Over Steer
+1 , 0 , 2
+Over Steer
+1 , 0 , 2
+Over Steer
+0 , 1 , 1
+Over Steer
+0 , 1 , 1
+Over Steer
+0 , 1 , 1
+Over Steer
+0 , 1 , 1
+Over Steer
+0 , 1 , 1
+Over Steer
+1 , 0 , 2
+Over Steer
+0 , 1 , 2
+Under Steer
+1 , 0 , 1
+Under Steer
+1 , 0 , 1
+Under Steer
+0 , 1 , 1
+Over Steer
